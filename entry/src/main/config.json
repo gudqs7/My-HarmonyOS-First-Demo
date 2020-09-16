@@ -33,7 +33,8 @@
       {
         "pages": [
           "pages/index/index",
-          "pages/xunlian/xunlian"
+          "pages/xunlian/xunlian",
+          "pages/daojishi/daojishi"
         ],
         "name": "default"
       }

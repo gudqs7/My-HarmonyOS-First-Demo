@@ -10,7 +10,7 @@ export default {
     },
     clickAction() {
         router.replace({
-            uri: 'pages/xunlian/xunlian',
+            uri: 'pages/daojishi/daojishi',
             params: {
                 "data1": picker1value,
                 "data2": picker2value,

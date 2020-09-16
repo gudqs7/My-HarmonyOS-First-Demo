@@ -21,11 +21,11 @@ export default {
         count: ""
     },
     onInit() {
-        console.log('接收到页面传值为: ' + this.data1);
-        console.log('接收到页面传值为: ' + this.data2);
+        console.log('接收到页面传值为: ' + this.key1);
+        console.log('接收到页面传值为: ' + this.key2);
         // 接受传值
-        picker1value = this.data1;
-        picker2value = this.data2;
+        picker1value = this.key1;
+        picker2value = this.key2;
 
         // 计算转换
         picker1seconds = parseInt(picker1value) * 60;
