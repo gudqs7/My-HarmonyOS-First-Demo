@@ -1,0 +1,44 @@
+.container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 454px;
+    height: 454px;
+}
+.txt1 {
+    font-size: 38px;
+    text-align: center;
+    width: 454px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.txt2 {
+    font-size: 30px;
+    text-align: center;
+    width: 400px;
+    height: 40px;
+}
+.btn{
+    width: 300px;
+    height: 50px;
+    font-size: 38px;
+    background-color: #000;
+    border-color: #000;
+    margin-top: 40px;
+}
+
+.img {
+    width: 208px;
+    height: 208px;
+    margin-bottom: 10px;
+    animation-name: aniname;
+}
+
+@keyframes aniname {
+        from {
+            transform: rotate(0deg);
+        }
+        to {
+            transform: rotate(360deg);
+        }
+}

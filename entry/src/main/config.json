@@ -1,0 +1,42 @@
+{
+  "app": {
+    "bundleName": "cn.gudqs.lite_wearable_breath_demo",
+    "vendor": "gudqs",
+    "version": {
+      "code": 1,
+      "name": "1.0"
+    },
+    "apiVersion": {
+      "compatible": 3,
+      "target": 3
+    }
+  },
+  "deviceConfig": {},
+  "module": {
+    "deviceType": [
+      "liteWearable"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "entry",
+      "moduleType": "entry"
+    },
+    "abilities": [
+      {
+        "name": "default",
+        "icon": "$media:icon",
+        "label": "Lite_Wearable_Breath_Demo",
+        "type": "page"
+      }
+    ],
+    "js": [
+      {
+        "pages": [
+          "pages/index/index",
+          "pages/xunlian/xunlian"
+        ],
+        "name": "default"
+      }
+    ]
+  }
+}

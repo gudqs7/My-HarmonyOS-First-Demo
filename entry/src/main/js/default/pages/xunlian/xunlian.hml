@@ -1,0 +1,11 @@
+<div class="container">
+    <image class="img" src="/common/hm.png" style="animation-duration: {{duration}}; animation-iteration-count: {{count}};" />
+    <text class="txt1">
+        {{huxi}} ({{percent}}%)
+    </text>
+    <text class="txt2" show="{{isshow}}">
+        再坚持 {{seconds}} 秒
+    </text>
+
+    <input type="button" value="点击重新开始" class="btn" onclick="clickAction"/>
+</div>
