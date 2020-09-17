@@ -12,15 +12,15 @@ Dev for Huawei Lite Wearable (仅为运动手表开发)
 
 >实际效果如下
 
-![](C:\Users\wq\DevEcoStudioProjects\Lite_Wearable_Breath_Demo\github\image\s1.png)
+![](https://github.com/gudqs7/My-HarmonyOS-First-Demo/blob/master/github/image/s1.png?raw=true)
 
 
 
-![](C:\Users\wq\DevEcoStudioProjects\Lite_Wearable_Breath_Demo\github\image\s2.png)
+![](https://github.com/gudqs7/My-HarmonyOS-First-Demo/blob/master/github/image/s2.png?raw=true)
 
 
 
-![](C:\Users\wq\DevEcoStudioProjects\Lite_Wearable_Breath_Demo\github\image\s3.png)
+![](https://github.com/gudqs7/My-HarmonyOS-First-Demo/blob/master/github/image/s3.png?raw=true)
 
 
 
